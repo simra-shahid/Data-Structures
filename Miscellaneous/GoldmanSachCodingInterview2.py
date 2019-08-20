@@ -1,5 +1,6 @@
 '''
-Given an array, find sum of prime numbers of all the individual array element say primeSum. Now make sets of 0s of length of primeSum with k subsets. 
+Given an array, find sum of prime numbers of all the individual array element say primeSum. 
+Now make sets of 0s of length of primeSum with k subsets. 
 Example: 
 If primeSum = 7 (Computed) and k = 2 (Given) 
 Then subsets will be {{}{0000000},{0}{000000},{00}{00000},{000}{000},{0000}{000},{00000}{00},{000000}{0},{0000000}{}} = 8
